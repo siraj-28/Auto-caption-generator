@@ -1,5 +1,3 @@
-# 📸 CaptionAir AI
-
 A modern **full-stack web application** that generates AI-powered captions for uploaded images.  
 Built with **React, Express, MongoDB, and Gemini AI**, it provides authentication, secure image uploads, and flexible caption options.
 
