@@ -21,10 +21,9 @@ const App = () => {
       </Routes>
       <footer className='w-full mx-auto flex justify-center items-center px-4 h-14 border-t bg-white/80 backdrop-blur supports-[backdrop-filter]:bg-white/60'>
         <Link
-          to={"https://github.com/SirajVerma"}
           className='font-semibold text-gray-900'
         >
-          &copy; [<i>Siraj</i>]
+          &copy; [<i>Disha Gupta</i>]
         </Link>
       </footer>
     </div>
